@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @5ENTIN3L
 - 👀 I’m interested in software development and graphic design
-- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything software developmet and graphic design related
 - you can find me via twitter / x as -@5entinel_D3V
   
